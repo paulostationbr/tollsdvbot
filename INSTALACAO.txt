@@ -1,0 +1,19 @@
+Por: @httd1 (Telegram)
+
+#Direcione o Webhook do telegram para o arquivo bot.php
+
+#Crie um banco de dados e edite o arquivo bd.php com as informações de acesso "usuario","senha" e "nome do bd".
+
+#Importe as tabelas do arquivo tabelas.sql para o banco de dados criado.
+
+*PS: Alguns Bancos de Dados mais antigos não suportam utfmb4 que é utilizado nas tabelas.
+
+#Edite o arquivo config.php com as informações:
+
+-TOKEN DO BOT
+
+-USERNAME DO CANAL PARA PUBLICAÇÃO (o bot precisa ser um adm para fazer postagens no canal).
+
+-ID DE USUÁRIO DO TELEGRAM DO ADM DO BOT.
+
+-SE PREFERIR EDITE TAMBÉM OS TEXTOS DE RESPOSTAs DO BOT NOS ARRAYS DA VARIÁVEL $send.
