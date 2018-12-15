@@ -1,6 +1,6 @@
 <?php
 
-$token='328734336:AAFwVcCrwPA6l3EEj5n9WzQOSeiEZvkbp3Q';
+$token='Sua_Token_Do_Bot';
 #Token Bot
 
 $canal='@canais_bot';
